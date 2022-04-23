@@ -24,6 +24,7 @@ public class SpringJunitTest {
 
     @Test
     public void test1(){
+        System.out.println(dataSource);
         userService.save();
     }
 }
