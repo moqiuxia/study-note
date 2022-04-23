@@ -31,7 +31,9 @@
 
 
     <!--配置组件扫描（告诉spring要帮哪个包下的注解创建对象）-->
-<!--  跑代码里去了  <context:component-scan base-package="com.mqx"/>-->
+  跑代码里去了  <context:component-scan base-package="com.mqx"/>
 
 
+
+    <!--<bean id="userService" class="com.mqx.service.impl.UserServiceImpl"></bean>-->
 </beans>

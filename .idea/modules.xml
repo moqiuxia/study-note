@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-ioc/spring-ioc.iml" filepath="$PROJECT_DIR$/spring-ioc/spring-ioc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-ioc-anno/spring-ioc-anno.iml" filepath="$PROJECT_DIR$/spring-ioc-anno/spring-ioc-anno.iml" />
     </modules>
   </component>
